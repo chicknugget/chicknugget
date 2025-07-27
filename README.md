@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on an AI Powered CCTV to detect violence<br>🌱 I’m currently learning Game and Web Development<br>⚡ Fun fact I like nuggets
+🔭 I’m currently working on a Movie Recommender System <br>🌱 I’m currently learning Game and Web Development<br>⚡ Fun fact I like nuggets
 
 
 # 💻 Tech Stack:
