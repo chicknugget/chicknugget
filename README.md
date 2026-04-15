@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shreya</h1>
+<h1 align="center">Hi, I'm Shreya</h1>
 
-# 💫 About Me:
+# About Me:
 
-🔭 I’m currently working on a Movie Recommender System <br>🌱 I’m currently learning Game and Web Development<br>⚡ Fun fact I like nuggets
+🔭 I’m currently working on a LLM Halucination Detector <br>🌱 I’m currently learning Game and Web Development<br>⚡ Fun fact I like nuggets
 
 
 # 💻 Tech Stack:
